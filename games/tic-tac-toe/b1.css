@@ -1,0 +1,17 @@
+*{
+    font-family: "inter" , sans-serif;
+    margin-top: 20px;
+}
+.box{
+    height: 110px;
+    width: 110px;
+    margin: 10px;
+    border-radius: 7px;
+    font-size: 40px;
+}
+@media (max-width: 421px){
+    .box{
+        height: 90px;
+        width: 90px;
+    }
+}
